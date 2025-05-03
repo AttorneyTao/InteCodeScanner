@@ -1,3 +1,9 @@
+<!--
+SPDX-FileCopyrightText: 2025 Ryan TAO
+
+SPDX-License-Identifier: MIT
+-->
+
 # 🧩 InteCodeScanner
 
 **InteCodeScanner** is a Python-based tool and web application that consumes the [ClearlyDefined API](https://clearlydefined.io/), processes open source component metadata, and enriches CSV input files with licensing and attribution data.

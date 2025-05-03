@@ -1,3 +1,7 @@
+# SPDX-FileCopyrightText: 2025 Ryan TAO
+#
+# SPDX-License-Identifier: MIT
+
 from __future__ import annotations
 
 import pandas as pd

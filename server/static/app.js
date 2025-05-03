@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2025 Ryan TAO
+//
+// SPDX-License-Identifier: MIT
+
 /* eslint-env browser */
 const form   = document.getElementById("uploadForm");
 const loader = document.getElementById("loader");

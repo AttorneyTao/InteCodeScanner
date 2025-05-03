@@ -1,3 +1,7 @@
+# SPDX-FileCopyrightText: 2025 Ryan TAO
+#
+# SPDX-License-Identifier: MIT
+
 # clearly/resources.py
 """
 High‑level, read‑only helpers built on top of ClearlyDefinedClient.

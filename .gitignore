@@ -1,3 +1,7 @@
+# SPDX-FileCopyrightText: 2025 Ryan TAO
+#
+# SPDX-License-Identifier: MIT
+
 venv/
 test/
 soleapicall/

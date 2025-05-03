@@ -1,3 +1,7 @@
+# SPDX-FileCopyrightText: 2025 Ryan TAO
+#
+# SPDX-License-Identifier: MIT
+
 [project]
 name = "clearly"
 version = "0.0.1"

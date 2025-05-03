@@ -1,3 +1,7 @@
+# SPDX-FileCopyrightText: 2025 Ryan TAO
+#
+# SPDX-License-Identifier: MIT
+
 # clearly/export.py
 """
 Utilities to turn raw API JSON into CSV / HTML for reports.

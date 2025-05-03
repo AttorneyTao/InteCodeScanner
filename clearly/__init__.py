@@ -1,3 +1,7 @@
+# SPDX-FileCopyrightText: 2025 Ryan TAO
+#
+# SPDX-License-Identifier: MIT
+
 # clearly/__init__.py
 from .coordinates import Coordinate, CoordinateError
 from .client import ClearlyDefinedClient, ApiError, RateLimitExceeded

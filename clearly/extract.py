@@ -1,3 +1,7 @@
+# SPDX-FileCopyrightText: 2025 Ryan TAO
+#
+# SPDX-License-Identifier: MIT
+
 #extract.py
 """
 Field‑selector helpers for ClearlyDefined definition JSON.

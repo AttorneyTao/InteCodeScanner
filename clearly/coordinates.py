@@ -1,3 +1,7 @@
+# SPDX-FileCopyrightText: 2025 Ryan TAO
+#
+# SPDX-License-Identifier: MIT
+
 # clearly/coordinates.py
 """
 Utility for parsing, validating, and serialising ClearlyDefined coordinates.

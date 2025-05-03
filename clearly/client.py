@@ -1,3 +1,7 @@
+# SPDX-FileCopyrightText: 2025 Ryan TAO
+#
+# SPDX-License-Identifier: MIT
+
 # clearly/client.py
 """
 Low‑level HTTP wrapper for the ClearlyDefined REST API.

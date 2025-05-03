@@ -1,3 +1,7 @@
+# SPDX-FileCopyrightText: 2025 Ryan TAO
+#
+# SPDX-License-Identifier: MIT
+
 """
 Very simple in‑memory LRU cache to avoid hammering the Clearly API.
 """

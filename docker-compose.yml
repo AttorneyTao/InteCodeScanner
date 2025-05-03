@@ -1,0 +1,14 @@
+version: "3.9"
+
+services:
+  api:
+    build: .
+    ports:
+      - "8000:8000"
+    environment:
+      CD_CACHE_URL: redis://redis:6379/0      # comment out to use in‑memory cache
+    depends_on:
+      - redis
+  redis:
+    image: redis:7-alpine
+    restart: unless-stopped
